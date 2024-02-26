@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boxbox7
-- 👀 I’m interested in python(django, flask, fastapi) 
-- 🌱 I’m currently learning java and javascript...
+- 👀 I’m interested in python(django, flask) 
+- 🌱 I’m currently learning git and javascript...
 - 📫 How to reach me [houjun447@gmail.com](houjun447@gmail.com)
 
 <!---
